@@ -7,8 +7,8 @@
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Forward-Client",
-    "website": "https://telegram.dog/AbirHasan2005",
+    "repository": "https://github.com/panikajo/Forward/",
+    "website": "https://telegram.dog/panikajo",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
         "API_ID": {
